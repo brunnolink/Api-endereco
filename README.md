@@ -1,0 +1,1 @@
+Aplicação feita para criar clientes e seus endereçoes respectivos. Afim de facilitar a vida do usuario, foi utilizado uma strategy para preencher o endereço automaticamente com o CEP fornecido através do ViaCEP. Até o momento não foi tratado os erros, o que pretendo implementar mais pra frente.
